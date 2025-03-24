@@ -15,7 +15,7 @@ public class Exercicio_01 {
 		
 		int soma = X + Y;
 		
-		System.out.println("SOMA= " + soma);
+		System.out.println("SOMA = " + soma);
 
 	}
 
